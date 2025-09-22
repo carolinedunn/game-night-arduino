@@ -57,5 +57,5 @@ Think of it as a one-button **chess clock** for game night: press the button, yo
    (Tested with **Frank de Brabander’s LiquidCrystal_I2C** library.)
 4. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/game-night-timer-arduino.git
+   git clone https://github.com/carolinedunn/game-night-arduino.git
    ```

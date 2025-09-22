@@ -13,9 +13,9 @@ const uint8_t BUZZER = 9;
 // Uno/Nano: A4=SDA, A5=SCL
 LiquidCrystal_I2C lcd(0x27, 16, 2); // change to 0x3F if needed
 
-const unsigned long TURN_MS = 60000;
-const unsigned long WARN_Y_MS = 20000;
-const unsigned long WARN_R_MS = 5000;
+const unsigned long TURN_MS = 10000;
+const unsigned long WARN_Y_MS = 4000;
+const unsigned long WARN_R_MS = 2000;
 
 volatile bool btnPressed = false;
 unsigned long lastBtnTime = 0;

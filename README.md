@@ -38,6 +38,10 @@ Think of it as a one-button **chess clock** for game night: press the button, yo
 - Buzzer → D9
 - LCD → I²C (A4 = SDA, A5 = SCL on Uno/Nano)
 
+[Wiring Diagram](Arduino.png)
+
+<img src="Arduino.png" alt="Wiring diagram: Arduino UNO, LEDs, button, buzzer" width="720"/>
+
 ---
 
 ## Software Setup

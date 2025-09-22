@@ -8,9 +8,9 @@ const uint8_t BTN_PIN = 2;         // interrupt-capable
 const uint8_t LED_G   = 5, LED_Y = 6, LED_R = 7;
 const uint8_t BUZZER  = 9;
 
-const unsigned long TURN_MS   = 60000;
-const unsigned long WARN_Y_MS = 20000;
-const unsigned long WARN_R_MS = 5000;
+const unsigned long TURN_MS   = 10000;
+const unsigned long WARN_Y_MS = 4000;
+const unsigned long WARN_R_MS = 2000;
 const unsigned long DEBOUNCE_MS = 80;
 
 volatile bool btnInterruptFlag = false;   // set in ISR, handled in loop

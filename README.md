@@ -47,10 +47,15 @@ Think of it as a one-button **chess clock** for game night: press the button, yo
 ## Software Setup
 
 1. **Install Arduino IDE** (https://www.arduino.cc/en/software)
-2. **Install the LCD library**  
+
+   If using a Raspberry Pi install with command
+   ```bash
+   sudo apt install arduino
+   ```
+3. **Install the LCD library**  
    Open **Sketch → Include Library → Manage Libraries**, search for **LiquidCrystal I2C**, and install.  
    (Tested with **Frank de Brabander’s LiquidCrystal_I2C** library.)
-3. Clone or download this repository:
+4. Clone or download this repository:
    ```bash
    git clone https://github.com/yourusername/game-night-timer-arduino.git
    ```

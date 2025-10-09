@@ -67,7 +67,7 @@ This is part of my **Game Night Timer** series:
 - [Episode 1: Raspberry Pi LED Timer](https://youtu.be/0G3-ISume2o)  
 - [Episode 2: Raspberry Pi LCD Timer](https://youtu.be/WSQV_xoQzLM)  
 - [Episode 3: Raspberry Pi Bluetooth Speaker Timer](https://youtu.be/rIc2U7KOW9k)
-- [Episode 4: Raspberry Pi Pico Game Night Timer ](https://youtu.be/uNjdEHFaG68))  
+- [Episode 4: Raspberry Pi Pico Game Night Timer ](https://youtu.be/uNjdEHFaG68)  
 - [Episode 5: DIY Board Game Timer with Arduino Uno (LEDs, LCD, Buzzer)](https://youtu.be/IcNpnKvu7IY)
 - [Episode 6: Hacking the Google AIY Kit v1 for Game Night](https://youtu.be/ric9_GkfvCg)
 

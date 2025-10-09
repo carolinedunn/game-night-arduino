@@ -4,6 +4,7 @@ Do your friends or family take **way too long** on their turn during board or ca
 This project is a DIY **two-player turn timer** using an Arduino, an I²C 16×2 LCD, traffic-light style LEDs (green/yellow/red), and a buzzer.  
 Think of it as a one-button **chess clock** for game night: press the button, your turn ends, and the countdown for the next player begins.
 
+[![DIY Board Game Timer with Arduino Uno (LEDs, LCD, Buzzer)](Arduino.jpg)](https://youtu.be/IcNpnKvu7IY)
 ---
 
 ## Features
@@ -59,3 +60,28 @@ Think of it as a one-button **chess clock** for game night: press the button, yo
    ```bash
    git clone https://github.com/carolinedunn/game-night-arduino.git
    ```
+
+   ---
+   ## 📂 Project Series
+This is part of my **Game Night Timer** series:  
+- [Episode 1: Raspberry Pi LED Timer](https://youtu.be/0G3-ISume2o)  
+- [Episode 2: Raspberry Pi LCD Timer](https://youtu.be/WSQV_xoQzLM)  
+- [Episode 3: Raspberry Pi Bluetooth Speaker Timer](https://youtu.be/rIc2U7KOW9k)
+- [Episode 4: Raspberry Pi Pico Game Night Timer ](https://youtu.be/uNjdEHFaG68))  
+- [Episode 5: DIY Board Game Timer with Arduino Uno (LEDs, LCD, Buzzer)](https://youtu.be/IcNpnKvu7IY)
+- [Episode 6: Hacking the Google AIY Kit v1 for Game Night](https://youtu.be/ric9_GkfvCg)
+
+---
+
+## 📖 License
+MIT License — free to use, remix, and share.  
+Attribution appreciated: link back to [Caroline Dunn’s channel](https://www.youtube.com/caroline).  
+
+---
+
+## 📚 Author
+Created by **Caroline Dunn**  
+- 🌐 [winningintech.com](https://winningintech.com/)  
+- 📺 [YouTube.com/Caroline](https://www.youtube.com/caroline)  
+- 📘 [A Woman’s Guide to Winning in Tech](https://amzn.to/3YxHVO7)  
+

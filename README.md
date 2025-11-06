@@ -53,10 +53,10 @@ Think of it as a one-button **chess clock** for game night: press the button, yo
    ```bash
    sudo apt install arduino
    ```
-3. **Install the LCD library**  
+2. **Install the LCD library**  
    Open **Sketch → Include Library → Manage Libraries**, search for **LiquidCrystal I2C**, and install.  
    (Tested with **Frank de Brabander’s LiquidCrystal_I2C** library.)
-4. Clone or download this repository:
+3. Clone or download this repository:
    ```bash
    git clone https://github.com/carolinedunn/game-night-arduino.git
    ```
